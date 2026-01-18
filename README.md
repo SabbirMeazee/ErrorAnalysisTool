@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: https://erroranalysis.lovable.app/
+**URL**: https://error-analysis-tool.vercel.app/
 
 This project is built with:
 
